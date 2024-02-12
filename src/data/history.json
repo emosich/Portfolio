@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Developer",
+      "organisation": "Build Center",
+      "startDate": "Noviembre 2022",
+      "endDate": "Enero 2024",
+      "experiences": ["Unico developer de la empresa. Me ocupaba de mantener la página web y brindar soporte del software de gestión ERP a los empleados."],
+      "imageSrc": "history/buildcenter.png"
+    }
+  ]
