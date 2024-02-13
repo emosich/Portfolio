@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
+      "title": "TA-TE-TI",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Es el tipico juego de TA-TE-TI hecho con React. Esta deployado y se puede jugar!",
+      "skills": ["React", "CSS"],
+      "demo": "https://stately-cat-98d80a.netlify.app/",
+      "source": "https://github.com/emosich/tateti"
     },
     {
-      "title": "Project B",
+      "title": "Proyecto Inmobiliaria",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Se trata de un portal de venta y alquiler de inmuebles.                         ",
+      "skills": ["React", "Express", "Node", "PostgreSQL"],
+      
+      "source": "https://github.com/emosich/proyecto_inmobiliaria"
     },
     {
-      "title": "Project C",
+      "title": "BB-T Todo",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Es una tienda de bebidas alcoholicas. Es un proyecto hecho en un bootcamp con un grupo de 5 personas.",
+      "skills": ["React", "Express", "Node",  "PostgreSQL"],
+      
+      "source": "https://github.com/emosich/BBT-TODO"
     }
   ]

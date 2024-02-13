@@ -7,14 +7,12 @@ const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Erik</h1>
+        <h1 className={styles.title}>Hola, soy Erik</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 2 years of experience using React and
-          NodeJS. I'm passionate about creating beautiful and functional
-          websites!
+          Soy un desarrollador full-stack con 2 años de experiencia usando React y NodeJS. Me apasiona crear sitios web bonitos y funcionales!
         </p>
         <a href="mailto:erikmosich@gmail.com" className={styles.contactBtn}>
-          Contact Me
+          Hablemos
         </a>
       </div>
       <img

@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>About</h2>
+      <h2 className={styles.title}>Sobre mi</h2>
       <div className={styles.content}>
         <img
           src={getImageUrl("about/aboutImage.png")}
@@ -18,8 +18,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                Soy un frontend developer con experiencia creando sitios web responsivos y optimizados.
               </p>
             </div>
           </li>
@@ -28,8 +27,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Tengo experiencia desarrollando sistemas y APIs.
               </p>
             </div>
           </li>
@@ -38,8 +36,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                He diseñado múltiples landing pages con figma.
               </p>
             </div>
           </li>
