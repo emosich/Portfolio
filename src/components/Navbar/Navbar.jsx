@@ -27,16 +27,16 @@ import { getImageUrl } from "../../utils";
           onClick={() => setMenuOpen(false)}
         >
           <li>
-            <a href="#about">About</a>
+            <a href="#about">Sobre mi</a>
           </li>
           <li>
-            <a href="#experience">Experience</a>
+            <a href="#experience">Experiencia</a>
           </li>
           <li>
-            <a href="#projects">Projects</a>
+            <a href="#projects">Proyectos</a>
           </li>
           <li>
-            <a href="#about">Contact</a>
+            <a href="#about">Contacto</a>
           </li>
         </ul>
       </div>
